@@ -47,15 +47,12 @@ h2, h3{
 }
 
 .down .info img{
-/*     width: 15%; */
-    width: 100%;
+    width: 15%;
 }
 
 .down .info div{
-/*     display: inline-block; */
-/*     width: 70%; */
-    width: 100%;
-/*     text-align: left; */
-    text-align: center;
+    display: inline-block;
+    width: 70%;
+    text-align: left;
     padding: 0px 20px;
 }
