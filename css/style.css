@@ -51,8 +51,10 @@ h2, h3{
 }
 
 .down .info div{
-    display: inline-block;
-    width: 70%;
-    text-align: left;
+/*     display: inline-block; */
+/*     width: 70%; */
+    width: 100%;
+/*     text-align: left; */
+    text-align: center;
     padding: 0px 20px;
 }
