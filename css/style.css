@@ -47,7 +47,8 @@ h2, h3{
 }
 
 .down .info img{
-    width: 15%;
+/*     width: 15%; */
+    width: 100%;
 }
 
 .down .info div{
